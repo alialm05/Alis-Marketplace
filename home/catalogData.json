@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Black Short Shorts",
+        "description": "A pair of stylish black short shorts.",
+        "price": 19.99,
+        "category": "clothing",
+        "src": "../items/black short shorts.jpg"
+    },
+
+    {
+        "name": "Blue Pants",
+        "description": "A pair of stylish blue pants.",
+        "price": 9.99,
+        "category": "clothing",
+        "src": "../items/blue pants.jpg"
+    },
+
+    {
+        "name": "Mickey Mouse",
+        "description": "Mickey mouse the club house!! 🐭.",
+        "price": 29.99,
+        "category": "clothing",
+        "src": "../items/MickeyMouse.jpg"
+    },
+
+    {
+        "name": "American Red Top",
+        "description": "AMERICA F*CK YEAH! !! 🦅",
+        "price": 109.99,
+        "category": "clothing",
+        "src": "../items/red top.jpg"
+    },
+
+    {
+        "name": "White Flora Dress",
+        "description": "Goodmorning pineapple",
+        "price": 29.99,
+        "category": "clothing",
+        "src": "../items/white flora dress.jpg"
+    },
+
+
+    {
+        "name": "Pink Shorts",
+        "description": "A pair of stylish pink shorts.",
+        "price": 4.99,
+        "category": "clothing",
+        "src": "../items/pink shorts.jpg"
+    },
+
+    {
+        "name": "Black Shorts",
+        "description": "A pair of classic black shorts for everyday wear.",
+        "price": 14.99,
+        "category": "clothing",
+        "src": "../items/black shorts.jpg"
+    },
+    {
+        "name": "Green Pajamas",
+        "description": "Comfortable green pajamas for a cozy night.",
+        "price": 24.99,
+        "category": "clothing",
+        "src": "../items/green pajamas.jpg"
+    },
+    {
+        "name": "Light Pink Dress",
+        "description": "A beautiful light pink dress for special occasions.",
+        "price": 39.99,
+        "category": "clothing",
+        "src": "../items/light pink dress.jpg"
+    },
+    {
+        "name": "Orange Dress",
+        "description": "A vibrant orange dress to brighten your day.",
+        "price": 34.99,
+        "category": "clothing",
+        "src": "../items/orange dress.jpg"
+    },
+    {
+        "name": "Overalls",
+        "description": "Stylish overalls for a casual and trendy look.",
+        "price": 49.99,
+        "category": "clothing",
+        "src": "../items/overalls.jpg"
+    },
+    {
+        "name": "Pink Dress",
+        "description": "A charming pink dress for a fun and elegant style.",
+        "price": 29.99,
+        "category": "clothing",
+        "src": "../items/pink dress.jpg"
+    },
+
+    {
+        "name": "Black Dress",
+        "description": "A sleek and elegant black dress for formal occasions.",
+        "price": 59.99,
+        "category": "clothing",
+        "src": "../items/black dress.jpg"
+    },
+    {
+        "name": "Black Pants",
+        "description": "Classic black pants suitable for any occasion.",
+        "price": 39.99,
+        "category": "clothing",
+        "src": "../items/black pants.jpg"
+    },
+    {
+        "name": "Brat T-Shirt",
+        "description": "A fun and quirky brat-themed t-shirt.",
+        "price": 19.99,
+        "category": "clothing",
+        "src": "../items/brat t-shirt.jpg"
+    },
+    {
+        "name": "Cute Teal Bikini",
+        "description": "A stylish teal bikini perfect for the beach.",
+        "price": 24.99,
+        "category": "clothing",
+        "src": "../items/cute teal bikini.jpg"
+    },
+    {
+        "name": "Donald Duck Wife Shirt",
+        "description": "A playful shirt featuring Donald Duck's wife.",
+        "price": 29.99,
+        "category": "clothing",
+        "src": "../items/donald duck wife shirt.jpg"
+    },
+    {
+        "name": "Pakistani Thobe",
+        "description": "A traditional Pakistani thobe for cultural occasions.",
+        "price": 49.99,
+        "category": "clothing",
+        "src": "../items/pakistani thobe.jpg"
+    },
+    {
+        "name": "Pink Baby Outfit",
+        "description": "A cute pink outfit for babies.",
+        "price": 19.99,
+        "category": "clothing",
+        "src": "../items/pink baby outfit.jpg"
+    },
+    {
+        "name": "Pink Cute Outfit",
+        "description": "A charming and stylish pink outfit.",
+        "price": 34.99,
+        "category": "clothing",
+        "src": "../items/pink cute outfit.jpg"
+    }
+
+
+]
